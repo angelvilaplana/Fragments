@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_text_main">88sp</dimen>
+    <dimen name="button_text_main">28sp</dimen>
+    <dimen name="button_text_change_fragment">24sp</dimen>
+</resources>
